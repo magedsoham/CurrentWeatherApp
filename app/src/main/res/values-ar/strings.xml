@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_weather">Weather</string>
+    <string name="str_condition">condition</string>
+    <string name="str_degree">Degree</string>
+    <string name="str_per_cent">per cent</string>
+    <string name="str_minimum">Minimum</string>
+    <string name="str_maximum">Maximum</string>
+    <string name="str_wind">Wind</string>
+    <string name="str_location">Location</string>
+    <string name="str_country">Country</string>
+    <string name="str_sunrise">sunrise</string>
+    <string name="str_sunset">sunset</string>
+    <string name="str_time">Time</string>
+    <string name="str_humidity">humidity</string>
+    <string name="search_city_weather">Search City Weather</string>
+</resources>
